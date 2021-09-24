@@ -86,7 +86,7 @@ namespace FilesInfo
             foreach(var file in filesReport)
             {
                 file.AvgFileSize = Math.Round(file.AvgFileSize / (double)file.Quantity, 2);
-                file.Periodicity = $"{Math.Round(file.Quantity / (double)files.Count, 2)}% ({file.Quantity}/{files.Count})";
+                file.Periodicity = $"{Math.Round(file.Quantity / (double)files.Count * 100, 2)}% ({file.Quantity}/{files.Count})";
             }
             return filesReport;
         }
