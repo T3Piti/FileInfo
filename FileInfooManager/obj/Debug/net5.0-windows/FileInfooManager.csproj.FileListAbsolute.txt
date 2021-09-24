@@ -21,17 +21,6 @@ C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\obj\Debug\net5.0-
 C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\obj\Debug\net5.0-windows\ref\FileInfooManager.dll
 C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\obj\Debug\net5.0-windows\FileInfooManager.pdb
 C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\obj\Debug\net5.0-windows\FileInfooManager.genruntimeconfig.cache
-C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\bin\Debug\net5.0-windows\DotNetBrowser.Core.dll
-C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\bin\Debug\net5.0-windows\DotNetBrowser.Logging.dll
-C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\bin\Debug\net5.0-windows\DotNetBrowser.dll
-C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\bin\Debug\net5.0-windows\DotNetBrowser.Chromium.Win-x64.dll
-C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\bin\Debug\net5.0-windows\DotNetBrowser.Chromium.Win-x86.dll
-C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\bin\Debug\net5.0-windows\protobuf-net.dll
-C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\bin\Debug\net5.0-windows\System.ServiceModel.Primitives.dll
-C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\bin\Debug\net5.0-windows\System.ServiceModel.dll
-C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\bin\Debug\net5.0-windows\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
-C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
-C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\bin\Debug\net5.0-windows\DotNetBrowser.Wpf.dll
 C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\obj\Debug\net5.0-windows\View\MainWindow.g.cs
 C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\ККК\source\repos\FileInfooManager\FileInfooManager\obj\Debug\net5.0-windows\View\MainWindow.baml

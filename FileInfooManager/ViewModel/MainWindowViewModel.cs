@@ -23,6 +23,9 @@ namespace FileInfooManager.ViewModel
         public ObservableCollection<FilesModel> FilesList { get; set; }
         #region Commands
         private RelayCommand saveToHTMLCommand;
+        /// <summary>
+        /// Saves html file
+        /// </summary>
         public RelayCommand SaveToHTMLCommand => saveToHTMLCommand ?? (saveToHTMLCommand = new RelayCommand(SaveToHTML));
         private void SaveToHTML(object obj)
         {

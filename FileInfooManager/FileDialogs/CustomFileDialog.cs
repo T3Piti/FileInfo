@@ -6,6 +6,11 @@ namespace FileInfooManager.FileDialogs
     public class CustomFileDialog
     {
         string FilePath { get; set; }
+        /// <summary>
+        /// Saves string to HTML file
+        /// </summary>
+        /// <param name="html">html string</param>
+        /// <returns></returns>
         public bool SaveFileDialog(string html)
         {
             SaveFileDialog saveFileDialog = new SaveFileDialog();

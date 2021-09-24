@@ -8,18 +8,38 @@ namespace FilesInfo
 {
     public static class Files
     {
+        /// <summary>
+        /// Asynchronously generates a list of files paths for all files in the selected directory and subdirectories
+        /// </summary>
+        /// <param name="path">path to selected directory</param>
+        /// <returns>a list(List<string>) of files paths</returns>
         public static async Task<List<string>> GetFilesAsync(string path)
         {
             return await Task.Run(() => GetFiles(path));
         }
+        /// <summary>
+        /// Asynchronously collects and groups information about files
+        /// </summary>
+        /// <param name="files">A list of files paths</param>
+        /// <returns>A list of FilesModel(FileExtension(string), Quantity(int), AvgFileSize(doble), Periodicity(string))</returns>
         public static async Task<List<FilesModel>> GetInfoByPathListAsync(List<string> filesPaths)
         {
             return await Task.Run(() => GetInfoByPathList(filesPaths));
         }
+        /// <summary>
+        /// Asynchronously generates an html string from the FilesModel list
+        /// </summary>
+        /// <param name="files">A list of FilesModel</param>
+        /// <returns>HTML report string with tree structure</returns>
         public static async Task<string> GenerateReportHTMLStringAsync(IList<FilesModel> files)
         {
             return await Task.Run(() => GenerateReportHTMLString(files));
         }
+        /// <summary>
+        /// Generates a list of files paths for all files in the selected directory and subdirectories
+        /// </summary>
+        /// <param name="path">path to selected directory</param>
+        /// <returns>a list(List<string>) of files paths</returns>
         public static List<string> GetFiles(string path)
         {
             List<string> files = new List<string>();
@@ -34,6 +54,11 @@ namespace FilesInfo
             files.AddRange(Directory.GetFiles(path));
             return files;
         }
+        /// <summary>
+        /// collects and groups information about files
+        /// </summary>
+        /// <param name="files">A list of files paths</param>
+        /// <returns>A list of FilesModel(FileExtension(string), Quantity(int), AvgFileSize(doble), Periodicity(string))</returns>
         public static List<FilesModel> GetInfoByPathList(List<string> files)
         {
             List<FilesModel> filesReport = new List<FilesModel>();
@@ -65,6 +90,11 @@ namespace FilesInfo
             }
             return filesReport;
         }
+        /// <summary>
+        /// Generates html string from FilesModel list
+        /// </summary>
+        /// <param name="files">A list of FilesModel</param>
+        /// <returns>HTML report string with tree structure</returns>
         public static string GenerateReportHTMLString(IList<FilesModel> files)
         {
             string html = "<!DOCTYPE html>" +
