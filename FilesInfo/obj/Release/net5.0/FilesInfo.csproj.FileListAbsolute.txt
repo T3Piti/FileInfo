@@ -1,0 +1,12 @@
+C:\Users\ККК\source\repos\FileInfooManager\FilesInfo\bin\Release\net5.0\FilesInfo.deps.json
+C:\Users\ККК\source\repos\FileInfooManager\FilesInfo\bin\Release\net5.0\FilesInfo.dll
+C:\Users\ККК\source\repos\FileInfooManager\FilesInfo\bin\Release\net5.0\ref\FilesInfo.dll
+C:\Users\ККК\source\repos\FileInfooManager\FilesInfo\bin\Release\net5.0\FilesInfo.pdb
+C:\Users\ККК\source\repos\FileInfooManager\FilesInfo\obj\Release\net5.0\FilesInfo.csproj.AssemblyReference.cache
+C:\Users\ККК\source\repos\FileInfooManager\FilesInfo\obj\Release\net5.0\FilesInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ККК\source\repos\FileInfooManager\FilesInfo\obj\Release\net5.0\FilesInfo.AssemblyInfoInputs.cache
+C:\Users\ККК\source\repos\FileInfooManager\FilesInfo\obj\Release\net5.0\FilesInfo.AssemblyInfo.cs
+C:\Users\ККК\source\repos\FileInfooManager\FilesInfo\obj\Release\net5.0\FilesInfo.csproj.CoreCompileInputs.cache
+C:\Users\ККК\source\repos\FileInfooManager\FilesInfo\obj\Release\net5.0\FilesInfo.dll
+C:\Users\ККК\source\repos\FileInfooManager\FilesInfo\obj\Release\net5.0\ref\FilesInfo.dll
+C:\Users\ККК\source\repos\FileInfooManager\FilesInfo\obj\Release\net5.0\FilesInfo.pdb
