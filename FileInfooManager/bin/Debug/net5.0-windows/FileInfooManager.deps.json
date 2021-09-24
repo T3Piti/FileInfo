@@ -1,0 +1,247 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FileInfooManager/1.0.0": {
+        "dependencies": {
+          "DotNetBrowser.Wpf": "2.8.0",
+          "FilesInfo": "1.0.0"
+        },
+        "runtime": {
+          "FileInfooManager.dll": {}
+        }
+      },
+      "DotNetBrowser/2.8.0": {
+        "dependencies": {
+          "DotNetBrowser.Chromium.Win-x64": "2.8.0",
+          "DotNetBrowser.Chromium.Win-x86": "2.8.0",
+          "protobuf-net": "2.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/DotNetBrowser.Core.dll": {
+            "assemblyVersion": "2.8.0.1857",
+            "fileVersion": "2.8.0.1857"
+          },
+          "lib/netstandard2.0/DotNetBrowser.Logging.dll": {
+            "assemblyVersion": "2.8.0.1857",
+            "fileVersion": "2.8.0.1857"
+          },
+          "lib/netstandard2.0/DotNetBrowser.dll": {
+            "assemblyVersion": "2.8.0.1857",
+            "fileVersion": "2.8.0.1857"
+          }
+        }
+      },
+      "DotNetBrowser.Chromium.Win-x64/2.8.0": {
+        "runtime": {
+          "lib/netstandard2.0/DotNetBrowser.Chromium.Win-x64.dll": {
+            "assemblyVersion": "2.8.0.1857",
+            "fileVersion": "2.8.0.1857"
+          }
+        }
+      },
+      "DotNetBrowser.Chromium.Win-x86/2.8.0": {
+        "runtime": {
+          "lib/netstandard2.0/DotNetBrowser.Chromium.Win-x86.dll": {
+            "assemblyVersion": "2.8.0.1857",
+            "fileVersion": "2.8.0.1857"
+          }
+        }
+      },
+      "DotNetBrowser.Wpf/2.8.0": {
+        "dependencies": {
+          "DotNetBrowser": "2.8.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/DotNetBrowser.Wpf.dll": {
+            "assemblyVersion": "2.8.0.1857",
+            "fileVersion": "2.8.0.1857"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/2.1.0": {},
+      "Microsoft.NETCore.Targets/1.1.0": {},
+      "protobuf-net/2.4.0": {
+        "dependencies": {
+          "System.ServiceModel.Primitives": "4.5.3"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/protobuf-net.dll": {
+            "assemblyVersion": "2.4.0.0",
+            "fileVersion": "2.4.0.8641"
+          }
+        }
+      },
+      "System.Collections/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Private.ServiceModel/4.5.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.1.0",
+          "System.Reflection.DispatchProxy": "4.5.0",
+          "System.Security.Principal.Windows": "4.5.0"
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard2.0/System.Private.ServiceModel.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.5.0.3",
+            "fileVersion": "4.6.26720.1"
+          },
+          "runtimes/win/lib/netstandard2.0/System.Private.ServiceModel.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.5.0.3",
+            "fileVersion": "4.6.26720.1"
+          }
+        }
+      },
+      "System.Reflection.DispatchProxy/4.5.0": {},
+      "System.Runtime/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "System.Security.Principal.Windows/4.5.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.1.0"
+        }
+      },
+      "System.ServiceModel.Primitives/4.5.3": {
+        "dependencies": {
+          "System.Private.ServiceModel": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.ServiceModel.Primitives.dll": {
+            "assemblyVersion": "4.5.0.3",
+            "fileVersion": "4.6.26720.1"
+          },
+          "lib/netstandard2.0/System.ServiceModel.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26720.1"
+          }
+        }
+      },
+      "FilesInfo/1.0.0": {
+        "dependencies": {
+          "System.Collections": "4.3.0"
+        },
+        "runtime": {
+          "FilesInfo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileInfooManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotNetBrowser/2.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Hb4pgUTsSfPpwxVZchghdC8V4EDd/v6SkFVsCKsh5FTHu0c478d3+q/1aiAfTKI3H64iNQmZPao4/Dm4I2URFg==",
+      "path": "dotnetbrowser/2.8.0",
+      "hashPath": "dotnetbrowser.2.8.0.nupkg.sha512"
+    },
+    "DotNetBrowser.Chromium.Win-x64/2.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1TwYBAdAGa8YCHMiZgnMJzDF38muYK9tKlMapfxmFhQq4lC3xpH9AZgQ3WYrys4uasTuVuhIy0zEdAmJZSxBlg==",
+      "path": "dotnetbrowser.chromium.win-x64/2.8.0",
+      "hashPath": "dotnetbrowser.chromium.win-x64.2.8.0.nupkg.sha512"
+    },
+    "DotNetBrowser.Chromium.Win-x86/2.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vSw1il125tk8hK0oIVxzKeWSyQDKteNXpqAymhUM4FBg3jwmnUwEULtDMuxXGk2F6XhaAftVAaOuVwVDg6fYUA==",
+      "path": "dotnetbrowser.chromium.win-x86/2.8.0",
+      "hashPath": "dotnetbrowser.chromium.win-x86.2.8.0.nupkg.sha512"
+    },
+    "DotNetBrowser.Wpf/2.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eeaZGiZqEhvFiOv74aB2191ndpOPL03S7LIWs5k9fwvikeu5CzFHDq3ADl5K2T3/82X/xkg/PSnWOln7NtpkRg==",
+      "path": "dotnetbrowser.wpf/2.8.0",
+      "hashPath": "dotnetbrowser.wpf.2.8.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ok+RPAtESz/9MUXeIEz6Lv5XAGQsaNmEYXMsgVALj4D7kqC8gveKWXWXbufLySR2fWrwZf8smyN5RmHu0e4BHA==",
+      "path": "microsoft.netcore.platforms/2.1.0",
+      "hashPath": "microsoft.netcore.platforms.2.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
+      "path": "microsoft.netcore.targets/1.1.0",
+      "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "protobuf-net/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-j37MD1p1s9NdX8P5+IaY2J9p2382xiL1VP3mxYu0g+G/kf2YM2grFa1jJPO+0WDJNl1XhNPO0Q5yBEcbX77hBQ==",
+      "path": "protobuf-net/2.4.0",
+      "hashPath": "protobuf-net.2.4.0.nupkg.sha512"
+    },
+    "System.Collections/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3Dcj85/TBdVpL5Zr+gEEBUuFe2icOnLalmEh9hfck1PTYbbyWuZgh4fmm2ysCLTrqLQw6t3TgTyJ+VLp+Qb+Lw==",
+      "path": "system.collections/4.3.0",
+      "hashPath": "system.collections.4.3.0.nupkg.sha512"
+    },
+    "System.Private.ServiceModel/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ancrQgJagx+yC4SZbuE+eShiEAUIF0E1d21TRSoy1C/rTwafAVcBr/fKibkq5TQzyy9uNil2tx2/iaUxsy0S9g==",
+      "path": "system.private.servicemodel/4.5.3",
+      "hashPath": "system.private.servicemodel.4.5.3.nupkg.sha512"
+    },
+    "System.Reflection.DispatchProxy/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+UW1hq11TNSeb+16rIk8hRQ02o339NFyzMc4ma/FqmxBzM30l1c2IherBB4ld1MNcenS48fz8tbt50OW4rVULA==",
+      "path": "system.reflection.dispatchproxy/4.5.0",
+      "hashPath": "system.reflection.dispatchproxy.4.5.0.nupkg.sha512"
+    },
+    "System.Runtime/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
+      "path": "system.runtime/4.3.0",
+      "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U77HfRXlZlOeIXd//Yoj6Jnk8AXlbeisf1oq1os+hxOGVnuG+lGSfGqTwTZBoORFF6j/0q7HXIl8cqwQ9aUGqQ==",
+      "path": "system.security.principal.windows/4.5.0",
+      "hashPath": "system.security.principal.windows.4.5.0.nupkg.sha512"
+    },
+    "System.ServiceModel.Primitives/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Wc9Hgg4Cmqi416zvEgq2sW1YYCGuhwWzspDclJWlFZqY6EGhFUPZU+kVpl5z9kAgrSOQP7/Uiik+PtSQtmq+5A==",
+      "path": "system.servicemodel.primitives/4.5.3",
+      "hashPath": "system.servicemodel.primitives.4.5.3.nupkg.sha512"
+    },
+    "FilesInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

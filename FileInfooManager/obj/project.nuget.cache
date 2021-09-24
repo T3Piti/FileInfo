@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "D6rf2RdTzuDpR95sTT9VEACF6wwrZU63o7+Bc/0HOgleoKX/7CDll2p8Q7Mfqt00vBbwK0bfPAduF9s6VhIRpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ККК\\source\\repos\\FileInfooManager\\FileInfooManager\\FileInfooManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ККК\\.nuget\\packages\\dotnetbrowser\\2.8.0\\dotnetbrowser.2.8.0.nupkg.sha512",
+    "C:\\Users\\ККК\\.nuget\\packages\\dotnetbrowser.chromium.win-x64\\2.8.0\\dotnetbrowser.chromium.win-x64.2.8.0.nupkg.sha512",
+    "C:\\Users\\ККК\\.nuget\\packages\\dotnetbrowser.chromium.win-x86\\2.8.0\\dotnetbrowser.chromium.win-x86.2.8.0.nupkg.sha512",
+    "C:\\Users\\ККК\\.nuget\\packages\\dotnetbrowser.wpf\\2.8.0\\dotnetbrowser.wpf.2.8.0.nupkg.sha512",
+    "C:\\Users\\ККК\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\ККК\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ККК\\.nuget\\packages\\protobuf-net\\2.4.0\\protobuf-net.2.4.0.nupkg.sha512",
+    "C:\\Users\\ККК\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\ККК\\.nuget\\packages\\system.private.servicemodel\\4.5.3\\system.private.servicemodel.4.5.3.nupkg.sha512",
+    "C:\\Users\\ККК\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\ККК\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\ККК\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\ККК\\.nuget\\packages\\system.servicemodel.primitives\\4.5.3\\system.servicemodel.primitives.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
